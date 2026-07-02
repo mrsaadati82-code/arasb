@@ -1,0 +1,8 @@
+ARASB Hybrid Package v2.0.0
+==========================
+- Full i18n support: FA / EN / AR with RTL/LTR auto-switching
+- Contact form submits to API (/api/contact-submit)
+- Language switcher in navbar
+- Font selection applies to both admin and public site
+- PHP-generated font CSS (no JS needed for fonts)
+- CORS headers on API endpoints
